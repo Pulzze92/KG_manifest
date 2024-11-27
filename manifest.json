@@ -1,7 +1,7 @@
 {
   "name": "KingyGM",
   "url": "https://ef7d-62-4-41-184.ngrok-free.app",
-  "icon": "https://mytonapp.com/icon.png",
+  "iconUrl": "https://mytonapp.com/icon.png",
   "description": "A great app to interact with the TON network",
   "theme": "dark"
 }
