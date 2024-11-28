@@ -1,7 +1,7 @@
 {
   "name": "KingyGM",
-  "url": "https://ef7d-62-4-41-184.ngrok-free.app",
-  "iconUrl": "https://github.com/Pulzze92/KG_manifest/blob/main/currency.png",
+  "url": "https://cb1a-62-4-41-184.ngrok-free.app",
+  "iconUrl": "https://cache.tonapi.io/imgproxy/yFer2GtQ4Jz-GbW8FIGD_69r8GH7GNkHvYZGy3fikJ0/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pLmliYi5jby9GYlRDS1JQL2xvZ290b2tlbmtpbmd5LnBuZw.webp",
   "description": "A great app to interact with the TON network",
   "theme": "dark"
 }
